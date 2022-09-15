@@ -1,32 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Poppins:wght@100;300;500;600&display=swap");
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-ul {
-  list-style: none;
-}
-
-body {
-  background-image: url(assets/Fundo.jpg);
-  background-position: top center;
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  background-color: #121214;
-}
-
-body * {
-  font-family: "Inter", sans-serif;
-  line-height: 160%;
-}
-
-/* main * {
-  border: 1px solid red;
-} */
-
 header {
   margin-top: 32px;
   height: calc(120px + 32px);
@@ -156,7 +127,7 @@ main section:nth-child(3) {
 @keyframes toTop {
   from {
     opacity: 0;
-    transform: translateX(-30px);
+    transform: translateX(30px);
   }
 
   to {
