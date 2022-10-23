@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://henryzxp1Dev.github.io/nwl-esports-explorer)
+[Clique aqui para acessar](https://alvesxdev.github.io/nwl-esports-explorer)
 
 ## Tecnologias
 
